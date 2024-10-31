@@ -1,3 +1,4 @@
+CREDITS:
 
 TITLE: 
 Wedding Free HTML5 Bootstrap Template for Wedding Website
@@ -7,8 +8,6 @@ DESIGNED & DEVELOPED by QBOOTSTRAP.COM
 Website: 		http://qbootstrap.com/
 Twitter: 		http://twitter.com/Q_bootstrap
 Facebook: 		https://www.facebook.com/Qbootstrap
-
-CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
@@ -57,3 +56,8 @@ http://pupunzi.open-lab.com
 
 Flex Slider
 http://www.woothemes.com/flexslider/
+
+
+git add .
+git commit -m "Test"
+git push origin main
